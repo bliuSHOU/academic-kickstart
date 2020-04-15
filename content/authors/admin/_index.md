@@ -32,7 +32,7 @@ education:
     year: 2015
   - course: Visiting PhD Student in Image Processing
     institution: TELECOM, ParisTech
-    year: 2012 -- 2013
+    year: 2013
   - course: MEng in Signal and Information Processing
     institution: Shanghai Jiao Tong University
     year: 2009
